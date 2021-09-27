@@ -1,3 +1,4 @@
+<html>
 ---
 title: '{% data variables.product.product_name %}{% ifversion fpt %}.com{% endif %} Help Documentation'
 featuredLinks:
@@ -54,5 +55,4 @@ externalProducts:
     name: CodeQL
     href: 'https://codeql.github.com/docs'
     external: true
----
-
+---</html>
