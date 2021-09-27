@@ -1,4 +1,5 @@
----
+<html>
+<Body>---
 title: Enabling Codespaces for your organization
 shortTitle: Enabling Codespaces
 intro: 'You can control which users in your organization can use {% data variables.product.prodname_codespaces %}.'
@@ -52,3 +53,5 @@ By default, a codespace can only access the repository from which it was created
 {% data reusables.codespaces.codespaces-spending-limit-requirement %} 
 
 For information on managing and changing your account's spending limit, see "[Managing your spending limit for {% data variables.product.prodname_codespaces %}](/billing/managing-billing-for-github-codespaces/managing-spending-limits-for-codespaces)."
+</Body>
+</Html
